@@ -8,22 +8,22 @@ The goal was to build a model with high precision and recall scores to minimize 
 ## Results
 
 Machine Learning Model 1 (without oversampling):
-Accuracy: 0.99
-Precision:
-Label 0 (healthy loan): 1.00
-Label 1 (high-risk loan): 0.87
-Recall:
-Label 0 (healthy loan): 1.00
-Label 1 (high-risk loan): 0.89
+*Accuracy: 0.99
+*Precision:
+  *Label 0 (healthy loan): 1.00
+  *Label 1 (high-risk loan): 0.87
+*Recall:
+  *Label 0 (healthy loan): 1.00
+  *Label 1 (high-risk loan): 0.89
 
 Machine Learning Model 2 (with oversampling):
-Accuracy: 0.99
-Precision:
-Label 0 (healthy loan): 0.99
-Label 1 (high-risk loan): 0.99
-Recall:
-Label 0 (healthy loan): 0.99
-Label 1 (high-risk loan): 0.99
+*Accuracy: 0.99
+*Precision:
+  *Label 0 (healthy loan): 0.99
+  *Label 1 (high-risk loan): 0.99
+*Recall:
+  *Label 0 (healthy loan): 0.99
+  *Label 1 (high-risk loan): 0.99
 
 ## Summary
 
